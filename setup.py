@@ -52,7 +52,7 @@ bye="""
 
 from termcolor import colored
 os.system("clear")
-print(colored(logo,"red") + colored(social_media,"blue"))
+print(colored(logo,"red") + colored(social_media,"yellow"))
 
 install=input(colored("Do you want to install Mr.D tool(y/n):","cyan"))
 if install == "y":
