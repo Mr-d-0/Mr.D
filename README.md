@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm KDO from Cyber-D Team</h1>
-<h3 align="center">I am a programmer, Hindi Rapper and as well as Student. I am from Nepal.</h3>
+<h1 align="center">Hi I'm Mr.D from Cyber-D Team</h1>
+<h3 align="center">I am a programmer, web developer and as well as Student. I am from Nepal.</h3>
 
-- 🔭 I’m currently working on [Cyber-D](https://github.com/kdo2064/Cyber-D/)
+- 🔭 I’m currently working on [Cyber-D](https://mr-d-0.github.io/lfss.github.io/)
 
-- 📫 How to reach me **mshashank@gmail.com**
+- 📫 How to reach me **anandkeshari84@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,12 +23,12 @@
 <img src="/img/cyber-dv2.jpeg" width="auto" height="90%">
 <h2 align="center">How to Install?</h2>
 <h4>
-> pkg update<br>
-> pkg upgrade<br>
-> pkg install git<br>
-> pkg install python3<br>
-> git clone https://github.com/kdo2064/Cyber-D.git<br>
-> cd Cyber-D<br>
+> apt update<br>
+> apt upgrade<br>
+> apt install git<br>
+> apt install python3<br>
+> git clone https://github.com/Mr-d-0/Mr.D.git<br>
+> cd Mr.D<br>
 > python3 setup.py<br>
-  <h3>once you install Cyber-D tool then after you have to use<b><font color="red"> python3 cyberD.py instead of python3 setup.py</font></b></h3> 
+  <h3>once you install  tool then after you have to use<b><font color="red"> python3 cyberD.py instead of python3 setup.py</font></b></h3> 
 
