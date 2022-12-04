@@ -19,7 +19,7 @@ logo= """
 social_media= """
  ~ Instagram: https://instagram.com/anand_ksri
  ~ Whatsapp: https://wa.me/+1(310)751-7352
- ~ Telegram: https://t.me/anand_ksri
+ ~ Youtube: https://www.youtube.com/@anand_yt
 """
 
 tool="""
@@ -52,9 +52,9 @@ bye="""
 
 from termcolor import colored
 os.system("clear")
-print(colored(logo,"blue") + colored(social_media,"red"))
+print(colored(logo,"red") + colored(social_media,"blue"))
 
-install=input(colored("Do you want to install Cyber-D (y/n):","yellow"))
+install=input(colored("Do you want to install Mr.D tool(y/n):","cyan"))
 if install == "y":
     print(colored(tool,"green"))
     os.system("pkg update -y && pkg upgrade -y && pkg install python3")
